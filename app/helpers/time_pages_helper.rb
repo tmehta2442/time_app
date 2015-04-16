@@ -1,0 +1,2 @@
+module TimePagesHelper
+end
